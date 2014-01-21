@@ -4,7 +4,7 @@
       "libitte <libitte3@gmail.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Minilla/v0.8.1",
+   "generated_by" : "Minilla/v0.11.0",
    "license" : [
       "perl_5"
    ],
@@ -57,7 +57,7 @@
    "provides" : {
       "Image::ColorDetector" : {
          "file" : "lib/Image/ColorDetector.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -71,5 +71,5 @@
          "web" : "https://github.com/libitte/Image-ColorDetector"
       }
    },
-   "version" : "0.01"
+   "version" : "0.02"
 }
