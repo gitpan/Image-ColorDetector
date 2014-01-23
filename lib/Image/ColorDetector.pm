@@ -3,7 +3,7 @@ use 5.008005;
 use strict;
 use warnings;
 
-our $VERSION = "0.03";
+our $VERSION = "0.04";
 
 use parent qw( Exporter );
 our @EXPORT_OK = qw(
@@ -206,7 +206,7 @@ __END__
 
 =head1 NAME
 
-Image::ColorDetector - It's new $module
+Image::ColorDetector - return the color name of the image file as a string
 
 =head1 SYNOPSIS
 

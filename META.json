@@ -1,5 +1,5 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "return the color name of the image file as a string",
    "author" : [
       "libitte <libitte3@gmail.com>"
    ],
@@ -57,7 +57,7 @@
    "provides" : {
       "Image::ColorDetector" : {
          "file" : "lib/Image/ColorDetector.pm",
-         "version" : "0.03"
+         "version" : "0.04"
       }
    },
    "release_status" : "stable",
@@ -71,5 +71,5 @@
          "web" : "https://github.com/libitte/Image-ColorDetector"
       }
    },
-   "version" : "0.03"
+   "version" : "0.04"
 }
